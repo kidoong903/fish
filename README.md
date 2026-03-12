@@ -1,0 +1,3 @@
+# fish
+
+Initial repository setup.
